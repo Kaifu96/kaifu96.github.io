@@ -1,3 +1,5 @@
+| [Home](https://kaifu96.github.io) | [Research]() | [Notes]() | [Blogs]() | [CV]() | [Contact]() |
+
 ## Welcome to Kaifu's Homepage
 
 This site is under construction.
