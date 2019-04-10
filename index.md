@@ -2,6 +2,10 @@
 
 This site is under construction.
 
+## About Me
+
+I'm Kaifu.
+
 ## Notes
 
 Click [here](https://kaifu96.github.io/Notes/) to see my notes.
