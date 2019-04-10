@@ -4,7 +4,9 @@ This site is under construction.
 
 ## About Me
 
-I'm Kaifu.
+### Education
+
+**2014-2018** - BS Applied Mathematics - Xi’an Jiaotong Liverpool University
 
 ## Notes
 
