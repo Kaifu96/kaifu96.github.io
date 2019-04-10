@@ -9,3 +9,7 @@ I'm Kaifu.
 ## Notes
 
 Click [here](https://kaifu96.github.io/Notes/) to see my notes.
+
+## Blog
+
+Click here to see my personal blog.
