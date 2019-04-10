@@ -1,4 +1,4 @@
-| [Home](https://kaifu96.github.io) | [Research]() | [Notes]() | [Blogs]() | [CV]() | [Contact]() |
+| [Home](https://kaifu96.github.io) | [Research]() | [Notes](https://kaifu96.github.io/Notes/) | [Blogs]() | [CV]() | [Contact]() |
 
 ## Welcome to Kaifu's Homepage
 
