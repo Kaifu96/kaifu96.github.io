@@ -2,7 +2,7 @@
 
 ## Welcome to Kaifu's Homepage
 
-This site is under construction. $x^d+y^d=z^d$
+This site is under construction.
 
 ## About Me
 
