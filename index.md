@@ -1,6 +1,6 @@
 PhD student in the Applied Mathematics and Computational Science program at University of Pennsylvania  
 **Email**: kaifu@sas.upenn.edu  
-**Address**: 1N1 David Rittenhouse Lab
+**Address**: 1N1 David Rittenhouse Lab  
 
 ## Education
 
@@ -8,7 +8,7 @@ PhD student in the Applied Mathematics and Computational Science program at Univ
 
 ## Teaching
 
-Teaching Assistant of [AMCS 602: Algebraic Techniques For Applied Math and Computational Science](https://www.math.upenn.edu/~zwang423/AMCS602_2019.html), Fall 2019
+- Teaching Assistant of [AMCS 602: Algebraic Techniques For Applied Math and Computational Science](https://www.math.upenn.edu/~zwang423/AMCS602_2019.html), Fall 2019
 
 ## Notes
 
