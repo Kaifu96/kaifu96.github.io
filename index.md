@@ -14,6 +14,6 @@ This site is under construction.
 
 Click [here](https://kaifu96.github.io/Notes/) to see my notes.
 
-## Others
+## Teaching
 
-[Best Restaurants in Philadelphia](https://www.yelp.com)
+Teaching Assistant of [AMCS 602: Algebraic Techniques For Applied Math and Computational Science](https://www.math.upenn.edu/~zwang423/AMCS602_2019.html), Fall 2019
