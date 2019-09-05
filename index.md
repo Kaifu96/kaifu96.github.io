@@ -14,6 +14,6 @@ PhD student in the Applied Mathematics and Computational Science program at Univ
 
 ## Quote
 
-> 荃者所以在鱼，得鱼而忘荃；蹄者所以在兔，得兔而忘蹄；言者所以在意，得意而忘言。
+> 荃者所以在鱼，得鱼而忘荃；蹄者所以在兔，得兔而忘蹄；言者所以在意，得意而忘言。(《外物》)
 
 
