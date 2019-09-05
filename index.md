@@ -19,7 +19,7 @@ Machine Learning and Natural Language Understanding
 > 言者所以在意，得意而忘言。  
 > ——《外物》  
 
-Translation:  
+**Translation**:  
 Traps are for-fish; when fish are gotten, the traps are for-gotten.  
 Snares are for-hares; when hares are gotten, the snares are for-gotten.  
 Words are for-meanings; when meanings are gotten, the words are for-gotten.  
