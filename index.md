@@ -16,7 +16,7 @@ Machine Learning and Natural Language Understanding
 
 > Fishing-stakes are employed to catch fish; when the fish are got, the stakes are forgotten.  
 > Snares are employed to catch hares, when the hares are got, the snares are forgotten.  
-> Words are employed to convey ideas; when the ideas are apprehended, the words are forgotten.  
+> Words are employed to convey meanings; when the meanings are got, the words are forgotten.  
 > (Chuang Tzu)  
 > 筌者所以在鱼，得鱼而忘筌；   
 > 蹄者所以在兔，得兔而忘蹄；  
