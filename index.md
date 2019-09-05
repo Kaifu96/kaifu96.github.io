@@ -14,7 +14,7 @@ Machine Learning and Natural Language Understanding
 
 ## Quote
 
-> Fishing-traps are for fish; when fish are gotten, the traps are forgotten.  
+> Traps are for fish; when fish are gotten, the traps are forgotten.  
 > Snares are for hares; when hares are gotten, the snares are forgotten.  
 > Words are for meanings; when meanings are gotten, the words are forgotten.  
 > (Chuang Tzu)  
