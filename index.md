@@ -14,6 +14,7 @@ PhD student in the Applied Mathematics and Computational Science program at Univ
 
 ## Quote
 
+> The fish trap exists because of the fish; once you've gotten the fish, you can forget the trap. The rabbit snare exists because of the rabbit; once you've gotten the rabbit, you can forget the snare. Words exist because of meaning; once you've gotten the meaning, you can forget the words. (*Zhuangzi*)
 > 荃者所以在鱼，得鱼而忘荃；蹄者所以在兔，得兔而忘蹄；言者所以在意，得意而忘言。(《外物》)
 
 
