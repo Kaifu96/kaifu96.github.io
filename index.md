@@ -1,4 +1,4 @@
-PhD student in the Applied Mathematics and Computational Science program at University of Pennsylvania  
+PhD student in Applied Mathematics and Computational Science, University of Pennsylvania  
 **Email**: kaifu@sas.upenn.edu  
 **Address**: 1N1 David Rittenhouse Lab  
 
