@@ -14,7 +14,13 @@ PhD student in the Applied Mathematics and Computational Science program at Univ
 
 ## Quote
 
-> The fish trap exists because of the fish. Once you've gotten the fish you can forget the trap. The rabbit snare exists because of the rabbit. Once you've gotten the rabbit, you can forget the snare. Words exist because of meaning. Once you've gotten the meaning, you can forget the words. (Chuang Tzu)  
-> 筌者所以在鱼，得鱼而忘筌；蹄者所以在兔，得兔而忘蹄；言者所以在意，得意而忘言。(《外物》)
+> Fishing-stakes are employed to catch fish; when the fish are got, the stakes are forgotten.  
+> Snares are employed to catch hares, when the hares are got, the snares are forgotten.  
+> Words are employed to convey ideas; when the ideas are apprehended, the words are forgotten.  
+(Chuang Tzu)  
+> 筌者所以在鱼，得鱼而忘筌；   
+> 蹄者所以在兔，得兔而忘蹄；  
+> 言者所以在意，得意而忘言。  
+> (《外物》)
 
 
