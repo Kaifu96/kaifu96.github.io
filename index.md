@@ -2,9 +2,9 @@
 **Email**: [kaifu@sas.upenn.edu](kaifu@sas.upenn.edu)  
 **Address**: 1N1 David Rittenhouse Lab  
 
-## Education
+## Research Interests
 
-**2014-2018** - BS Applied Mathematics - Xi’an Jiaotong Liverpool University
+Machine Learning and Natural Language Understanding
 
 ## Teaching
 
