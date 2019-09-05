@@ -1,8 +1,6 @@
-| [Home](https://kaifu96.github.io) | [Research](https://kaifu96.github.io/Research) | [Notes](https://kaifu96.github.io/Notes/) | [CV]() | [Contact](https://kaifu96.github.io/Contact) |
-
-## Welcome to Kaifu's Homepage
-
-This site is under construction.
+PhD student in the Applied Mathematics and Computational Science program at University of Pennsylvania
+**Email**: kaifu@sas.upenn.edu  
+**Address**: Salted Fish Teriyaki (铁板咸鱼), 1N1 David Rittenhouse Lab
 
 ## Education
 
