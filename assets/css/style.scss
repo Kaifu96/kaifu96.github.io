@@ -6,8 +6,18 @@
 
 /* theme overrides */
 
+.page-header {
+  color: #ecf0eb;
+  text-align: middle;
+  background-color: #494e6b;
+  background-image: none;
+
+  @include large {
+    padding: 2rem 2rem;
+  }
+
 a {
-  color: #729fcf;
+  color: #0b0080;
 }
 
 body {
@@ -28,16 +38,6 @@ body {
   }
 }
 
-.page-header {
-  color: #ecf0eb;
-  text-align: middle;
-  background-color: #494e6b;
-  background-image: none;
-
-  @include large {
-    padding: 1rem 1rem;
-  }
-
   @include medium {
     padding: 1rem 1rem;
   }
@@ -54,11 +54,6 @@ body {
 
 h1.site-title {
   margin-bottom: 0;
-}
-
-h2.site-description {
-  font-family: "LiSong Pro", serif;
-  margin-top: 0;
 }
 
 img.logo {
