@@ -6,16 +6,6 @@
 
 /* theme overrides */
 
-.page-header {
-  color: #ecf0eb;
-  text-align: middle;
-  background-color: #494e6b;
-  background-image: none;
-
-  @include large {
-    padding: 2rem 2rem;
-  }
-
 a {
   color: #0b0080;
 }
@@ -37,6 +27,16 @@ body {
     color: #3465a4;
   }
 }
+
+.page-header {
+  color: #ecf0eb;
+  text-align: middle;
+  background-color: #494e6b;
+  background-image: none;
+
+  @include large {
+    padding: 2rem 2rem;
+  }
 
   @include medium {
     padding: 1rem 1rem;
