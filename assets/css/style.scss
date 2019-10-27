@@ -16,7 +16,7 @@ body {
 
 .main-content {
   max-width: 80em;
-  padding: 4rem 4rem;
+  padding: 2rem 4rem;
 
   h1,
   h2,
@@ -35,15 +35,15 @@ body {
   background-image: none;
 
   @include large {
-    padding: 2rem 2rem;
+    padding: 4rem 4rem;
   }
 
   @include medium {
-    padding: 1rem 1rem;
+    padding: 3rem 3rem;
   }
 
   @include small {
-    padding: 1rem 1rem;
+    padding: 2rem 2rem;
   }
 }
 
