@@ -1,5 +1,3 @@
-mathjax: true
-
 **PhD student in Applied Mathematics and Computational Science, University of Pennsylvania**  
 **Advisor**: [Dan Roth](http://www.cis.upenn.edu/~danroth/)  
 **Email**: [kaifu@sas.upenn.edu](kaifu@sas.upenn.edu)  
@@ -27,6 +25,6 @@ Theory of Machine Learning and Natural Language Understanding
 Traps are for-fish; when fish are gotten, the traps are for-gotten.  
 Snares are for-hares; when hares are gotten, the snares are for-gotten.  
 Words are for-meanings; when meanings are gotten, the words are for-gotten.  
-$x$ are for-$f(x)$; when $f(x)=$ gotten, the $x$ is for-gotten.
+$x$
 
 
