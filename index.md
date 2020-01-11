@@ -26,5 +26,3 @@ Traps are for-fish; when fish are gotten, the traps are for-gotten.
 Snares are for-hares; when hares are gotten, the snares are for-gotten.  
 Words are for-meanings; when meanings are gotten, the words are for-gotten.  
 
-
-"\$x^n+y^n=z^n\$"
