@@ -5,7 +5,7 @@
 
 ## Research Interests
 
-Theory of Machine Learning and Natural Language Understanding $$x$$
+Theory of Machine Learning and Natural Language Understanding \[x\]
 
 ## Teaching
 
