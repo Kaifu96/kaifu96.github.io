@@ -12,7 +12,7 @@ Theory of Machine Learning and Natural Language Understanding
 - Teaching Assistant, [MATH 104: Calculus, Part I](https://www.math.upenn.edu/undergraduate/calculus-homepages/calculus/mathematics-104), Spring 2020
 - Grader, [AMCS 602: Algebraic Techniques For Applied Math and Computational Science](https://www.math.upenn.edu/~zwang423/AMCS602_2019.html), Fall 2019
 
-## Notes
+## Politics
 
 ## Quote
 
@@ -22,6 +22,6 @@ Theory of Machine Learning and Natural Language Understanding
 > ——《外物》  
 
 **Translation**:  
-Traps are for-fish; when fish are gotten, the traps are for-gotten.  
-Snares are for-hares; when hares are gotten, the snares are for-gotten.  
-Words are for-meanings; when meanings are gotten, the words are for-gotten.  
+Traps are for-fish; when fish are got, the traps are for-got.  
+Snares are for-hares; when hares are got, the snares are for-got.  
+Words are for-meanings; when meanings are got, the words are for-got.  
