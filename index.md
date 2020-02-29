@@ -16,7 +16,7 @@ Theory of Machine Learning and Natural Language Understanding
 
 ## Test Mathematics
 
-Inline: $$\forall x \in \mathbb{R}$$
+Inline: $$x,y,\mathbf{u},\mathbf{v},\mathbb{R},\mathbb{C},\mathcal{F},\mathcal{G}$$
 
 ## Quote
 
