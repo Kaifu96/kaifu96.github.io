@@ -16,7 +16,7 @@ Theory of Machine Learning and Natural Language Understanding
 
 ## Test Mathematics
 
-$$\forall x \in R$$
+Inline: $$\forall x \in \mathbb{R}$$
 
 ## Quote
 
