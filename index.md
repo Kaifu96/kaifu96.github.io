@@ -26,3 +26,4 @@ Theory of Machine Learning and Natural Language Understanding
 Traps are for-fish; when fish are got, the traps are for-got.  
 Snares are for-hares; when hares are got, the snares are for-got.  
 Words are for-meanings; when meanings are got, the words are for-got.  
+*Chuang Tzu*
