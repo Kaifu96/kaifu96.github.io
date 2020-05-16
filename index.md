@@ -1,7 +1,7 @@
 {% include lib/mathjax.html %}
 
 **PhD student in Applied Mathematics and Computational Science, University of Pennsylvania**  
-**Advisor**: [Dan Roth](http://www.cis.upenn.edu/~danroth/)  
+**Supervisor**: [Dan Roth](http://www.cis.upenn.edu/~danroth/)  
 **Email**: [kaifu@sas.upenn.edu](kaifu@sas.upenn.edu)  
 **Address**: 1N1 [David Rittenhouse Lab](http://maps.google.com/maps?daddr=David%20Rittenhouse%20Laboratory@39.952099,-75.189903)  
 
