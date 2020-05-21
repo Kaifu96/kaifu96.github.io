@@ -9,11 +9,12 @@
 
 Theory of Machine Learning and Natural Language Understanding
 
+## Expository Articles
+
 ## Teaching
 
 - Teaching Assistant, [MATH 104: Calculus, Part I](https://www.math.upenn.edu/undergraduate/calculus-homepages/calculus/mathematics-104), Spring 2020
 - Grader, [AMCS 602: Algebraic Techniques For Applied Math and Computational Science](https://www.math.upenn.edu/~zwang423/AMCS602_2019.html), Fall 2019
-
 
 ## Quote
 
