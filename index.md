@@ -2,7 +2,7 @@
 
 **PhD student in Applied Mathematics and Computational Science, University of Pennsylvania**  
 **Supervisor**: [Dan Roth](http://www.cis.upenn.edu/~danroth/)  
-**Email**: [kaifu@sas.upenn.edu](kaifu@sas.upenn.edu)  
+**Email**: kaifu@{[sas](kaifu@sas.upenn.edu),[seas]((kaifu@seas.upenn.edu))}.upenn.edu  
 **Address**: 1N1 [David Rittenhouse Lab](http://maps.google.com/maps?daddr=David%20Rittenhouse%20Laboratory@39.952099,-75.189903)  
 
 ## Research Interests
