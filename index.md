@@ -9,6 +9,8 @@
 
 Theory of Machine Learning and Natural Language Understanding
 
+## Publications
+
 ## Expository Articles
 
 ## Teaching
