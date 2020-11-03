@@ -20,9 +20,9 @@ Theory of Machine Learning and Natural Language Understanding
 
 ## Quote
 
-> 筌者所以在鱼，得鱼而忘筌。   
-> 蹄者所以在兔，得兔而忘蹄。  
-> 言者所以在意，得意而忘言。  
+> 荃者所以在魚，得魚而忘荃；  
+> 蹄者所以在兔，得兔而忘蹄；  
+> 言者所以在意，得意而忘言。
 
 **Translation**:  
 Traps are for-fish; when fish are *got*, the traps are for-*got*.  
