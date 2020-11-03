@@ -25,6 +25,6 @@ Theory of Machine Learning and Natural Language Understanding
 > 言者所以在意，得意而忘言。
 
 **Translation**:  
-Traps are for-fish; when fish are *got*, the traps are for-*got*.  
-Snares are for-hares; when hares are *got*, the snares are for-*got*.  
-Words are for-meanings; when meanings are *got*, the words are for-*got*.  
+Traps are for fish; when fish are *got*, the traps are for-*got*.  
+Snares are for hares; when hares are *got*, the snares are for-*got*.  
+Words are for meanings; when meanings are *got*, the words are for-*got*.  
