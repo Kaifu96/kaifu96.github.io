@@ -11,9 +11,7 @@ Theory of Machine Learning and Natural Language Understanding
 
 ## Publications
 
-**Kaifu Wang**, Qiang Ning, and Dan Roth. *Learnability with Indirect Supervision Signals*, to appear in NeurIPS 2020
-
-## Expository Articles
+**Kaifu Wang**, Qiang Ning, and Dan Roth. *Learnability with Indirect Supervision Signals*, arXiv:2006.08791, to appear in NeurIPS 2020
 
 ## Teaching
 
