@@ -18,5 +18,13 @@ Theory of Machine Learning and Natural Language Understanding
 - Teaching Assistant, [MATH 104: Calculus, Part I](https://www.math.upenn.edu/undergraduate/calculus-homepages/calculus/mathematics-104), Spring 2020
 - Grader, [AMCS 602: Algebraic Techniques For Applied Math and Computational Science](https://www.math.upenn.edu/~zwang423/AMCS602_2019.html), Fall 2019
 
----
-> You forget thousands of things every day, make sure this is one of them.
+## Quote
+
+> 筌者所以在鱼，得鱼而忘筌。   
+> 蹄者所以在兔，得兔而忘蹄。  
+> 言者所以在意，得意而忘言。  
+
+**Translation**:  
+Traps are for-fish; when fish are *got*, the traps are for-*got*.  
+Snares are for-hares; when hares are *got*, the snares are for-*got*.  
+Words are for-meanings; when meanings are *got*, the words are for-*got*.  
