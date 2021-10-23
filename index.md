@@ -15,7 +15,7 @@ Theory of Machine Learning and Natural Language Understanding
 
 ## Talks
 
-- MURI reading group, , University of Pennsylvania, Philadelphia, PA, February 2021, *Learnability with Indirect Supervision Signals*.
+- MURI reading group, University of Pennsylvania, Philadelphia, PA, February 2021, *Learnability with Indirect Supervision Signals*.
 
 ## Teaching
 
