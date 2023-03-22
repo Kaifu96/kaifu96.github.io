@@ -1,3 +1,3 @@
 {% include lib/mathjax.html %}
 
-(under construction)
+(under construction.)
